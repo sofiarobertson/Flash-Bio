@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "This is Blog Page for Startup Nextjs Template",
   // other metadata
 };
-
+// Hanna!
 const Blog = () => {
   return (
     <>
