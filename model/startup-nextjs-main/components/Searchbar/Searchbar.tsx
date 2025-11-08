@@ -5,8 +5,8 @@ export default function SearchBar() {
           <input
             type="text"
             placeholder="Search for events here"
-            className="w-full rounded-md border border-gray-300 py-3 pl-10 pr-4 text-gray-700 shadow-sm focus:border-green-700 focus:ring-green-700 focus:outline-none"
-          />
+            className="w-full rounded-md border border-gray-300 bg-white py-3 pl-10 pr-4 text-black shadow-sm focus:border-black focus:ring-black focus:outline-none"
+            />
           <svg
             className="absolute left-3 top-3.5 h-5 w-5 text-gray-500"
             xmlns="http://www.w3.org/2000/svg"
