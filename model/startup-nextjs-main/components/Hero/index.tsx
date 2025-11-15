@@ -14,9 +14,9 @@ const Hero = () => {
       <SearchBar />
         </div>
 
-      <div className="container">
+        <div className="">
       <HeroBanner />
-        </div>
+      </div>
 
       <div className="container">
       <TrendingEvents />
