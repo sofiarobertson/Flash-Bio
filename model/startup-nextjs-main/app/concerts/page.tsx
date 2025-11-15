@@ -62,7 +62,7 @@ export default function ConcertsPage() {
               {trending.map((item, i) => (
                 <div
                   key={i}
-                  className="rounded-xl overflow-hidden w-[320px] bg-black/60 text-white shadow-lg"
+                  className="rounded-xl overflow-hidden w-[340px] bg-black/60 text-white shadow-lg"
                 >
                   <div className="w-full h-[150px] relative">
                     <Image
